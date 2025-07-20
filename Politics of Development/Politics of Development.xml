@@ -9,13 +9,15 @@
     <description>Private podcast feed for Politics of Development</description>
     <itunes:author>Private Course Feed</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-
+    <itunes:category text="Education"/>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2000px-No_image_available.svg.png"/>
+    
     <item>
       <title>Politics of Development – Full Overview</title>
       <description>Full course overview.</description>
       <pubDate>Sun, 21 Jul 2024 10:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/lostinlyfe/Audio-Overviews/releases/download/Politics.of.Development/Politics.of.Development.Full.Overview.mp3" length="12345678" type="audio/mpeg"/>
-      <guid>politics-of-development-full-overview</guid>
+      <enclosure url="https://github.com/lostinlyfe/Audio-Overviews/releases/download/Politics.of.Development/Politics.of.Development.Full.Overview.mp3" length="17825792" type="audio/mpeg"/>
+      <guid>politics-development-full-overview</guid>
     </item>
 
   </channel>
