@@ -9,13 +9,15 @@
     <description>Private podcast feed for 100 Years of Revolution</description>
     <itunes:author>Private Course Feed</itunes:author>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Education"/>
+    <itunes:image href="https://yourdomain.com/image.jpg"/>
 
     <item>
       <title>100 Years of Revolution – Full Overview</title>
       <description>Full course overview.</description>
       <pubDate>Sun, 21 Jul 2024 10:00:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&id=1iddM4OSDquTMBm-iCT_PEMzcpsbIWllx" length="12345678" type="audio/mpeg"/>
-      <guid>100-years-full-overview</guid>
+      <guid isPermaLink="false">100-years-full-overview</guid>
     </item>
 
   </channel>
