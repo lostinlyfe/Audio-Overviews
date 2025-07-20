@@ -1,9 +1,22 @@
-"<?xml version=""1.0"" encoding=""UTF-8"" ?>
-<rss version=""2.0"">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Politics of Development</title>
-    <link>https://drive.google.com/drive/folders/1appTcW1pBxek_-74Ya0C9DcEfkQWp0XF</link>
-    <description>Private podcast feed for Politics of Development</description>
+    <link>https://github.com/lostinlyfe/Audio-Overviews</link>
     <language>en-us</language>
+    <description>Private podcast feed for Politics of Development</description>
+    <itunes:author>Private Course Feed</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>Politics of Development – Full Overview</title>
+      <description>Full course overview.</description>
+      <pubDate>Sun, 21 Jul 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/lostinlyfe/Audio-Overviews/releases/download/Politics.of.Development/Politics.of.Development.Full.Overview.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>politics-of-development-full-overview</guid>
+    </item>
+
   </channel>
-</rss>"
+</rss>
