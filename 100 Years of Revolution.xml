@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-    xmlns:media="http://search.yahoo.com/mrss/">
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>100 Years of Revolution</title>
-    <link>https://example.com</link>
+    <link>https://drive.google.com/drive/folders/1Z7ec5vDOA3ru1IFW2VMZuY0UeIsfGVKc</link>
     <language>en-us</language>
     <description>Private podcast feed for 100 Years of Revolution</description>
     <itunes:author>Your Name</itunes:author>
     <itunes:explicit>no</itunes:explicit>
 
     <item>
-      <title>Episode 1: Introduction</title>
-      <description>Overview of revolutionary movements</description>
+      <title>100 Years of Revolution Full Overview</title>
+      <description>Full course overview.</description>
       <pubDate>Sun, 21 Jul 2024 10:00:00 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&id=YOUR_MP3_FILE_ID" length="12345678" type="audio/mpeg"/>
-      <guid>episode-1</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&id=FILE_ID_HERE" length="12345678" type="audio/mpeg"/>
+      <guid>100-years-full-overview</guid>
     </item>
   </channel>
 </rss>
