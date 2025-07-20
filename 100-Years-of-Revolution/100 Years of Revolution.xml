@@ -9,6 +9,8 @@
     <description>Private podcast feed for 100 Years of Revolution</description>
     <itunes:author>Private Course Feed</itunes:author>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Education"/>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2000px-No_image_available.svg.png"/>
 
     <item>
       <title>100 Years of Revolution – Full Overview</title>
