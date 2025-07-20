@@ -1,7 +1,22 @@
-<item>
-  <title>100 Years of Revolution – Full Overview</title>
-  <description>Full course overview for 100 Years of Revolution.</description>
-  <pubDate>Sun, 21 Jul 2024 10:00:00 GMT</pubDate>
-  <enclosure url="https://raw.githubusercontent.com/lostinlyfe/Audio-Overviews/main/100-Years-of-Revolution/100%20Years%20of%20Revolution%20Full%20Overview.mp3" length="12345678" type="audio/mpeg"/>
-  <guid>100-years-full-overview</guid>
-</item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>100 Years of Revolution</title>
+    <link>https://github.com/lostinlyfe/Audio-Overviews</link>
+    <language>en-us</language>
+    <description>Private podcast feed for 100 Years of Revolution</description>
+    <itunes:author>Private Course Feed</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>100 Years of Revolution – Full Overview</title>
+      <description>Full course overview.</description>
+      <pubDate>Sun, 21 Jul 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/lostinlyfe/Audio-Overviews/releases/download/v1.0/100.Years.of.Revolution.Full.Overview.mp3" length="17825792" type="audio/mpeg"/>
+      <guid>100-years-full-overview</guid>
+    </item>
+
+  </channel>
+</rss>
