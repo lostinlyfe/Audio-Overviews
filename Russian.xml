@@ -1,9 +1,57 @@
-"<?xml version=""1.0"" encoding=""UTF-8"" ?>
-<rss version=""2.0"">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Russian</title>
-    <link>https://drive.google.com/drive/folders/188loF6efgdOgDTVDBwhjySttflp6PPVv</link>
-    <description>Private podcast feed for Russian</description>
+    <link>https://github.com/lostinlyfe/Audio-Overviews</link>
     <language>en-us</language>
+    <description>Private podcast feed for the Russian course.</description>
+    <itunes:author>Private Course Feed</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/lostinlyfe/Audio-Overviews/main/podcast-cover.png"/>
+    <itunes:category text="Education"/>
+    <itunes:summary>Audio overviews for the Russian language course.</itunes:summary>
+
+    <item>
+      <title>Ep. 1 – First Sounds & Self-Introduction</title>
+      <description>Learn the basics of Russian sounds and introduce yourself.</description>
+      <pubDate>Mon, 22 Jul 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/lostinlyfe/Audio-Overviews/releases/download/Russian/Russian.Ep.1_.First.Sounds.Self-Introduction.wav" length="12345678" type="audio/x-wav"/>
+      <guid>russian-ep-1</guid>
+    </item>
+
+    <item>
+      <title>Ep. 2 – My World: Nouns & Adjectives</title>
+      <description>Practice Russian nouns and adjectives in context.</description>
+      <pubDate>Tue, 23 Jul 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/lostinlyfe/Audio-Overviews/releases/download/Russian/Russian.Ep.2_.My.World.-.Nouns.Adjectives.wav" length="12345678" type="audio/x-wav"/>
+      <guid>russian-ep-2</guid>
+    </item>
+
+    <item>
+      <title>Ep. 3 – Possessions & Simple Actions</title>
+      <description>Understand how to express ownership and actions in Russian.</description>
+      <pubDate>Wed, 24 Jul 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/lostinlyfe/Audio-Overviews/releases/download/Russian/Russian.Ep.3_.Possessions.Simple.Actions.wav" length="12345678" type="audio/x-wav"/>
+      <guid>russian-ep-3</guid>
+    </item>
+
+    <item>
+      <title>Ep. 4 – Places & Time</title>
+      <description>Talk about places and time in Russian.</description>
+      <pubDate>Thu, 25 Jul 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/lostinlyfe/Audio-Overviews/releases/download/Russian/Russian.Ep.4_.Places.Time.wav" length="12345678" type="audio/x-wav"/>
+      <guid>russian-ep-4</guid>
+    </item>
+
+    <item>
+      <title>Ep. 5 – Food & Restaurants</title>
+      <description>Learn vocabulary for food and dining out in Russian.</description>
+      <pubDate>Fri, 26 Jul 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/lostinlyfe/Audio-Overviews/releases/download/Russian/Russian.Ep.5_.Food.Restaurants.wav" length="12345678" type="audio/x-wav"/>
+      <guid>russian-ep-5</guid>
+    </item>
+
   </channel>
-</rss>"
+</rss>
